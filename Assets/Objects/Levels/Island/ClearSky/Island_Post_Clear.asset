@@ -39,13 +39,13 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   lift:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 1, y: 0.8553331, z: 0.8301194, w: 0.007127695}
   gamma:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.9615708, y: 1, z: 0.9608306, w: -0.08805436}
   gain:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 1, y: 0.88801193, z: 0.7942031, w: 0.1282965}
 --- !u!114 &-6316862475723792488
 MonoBehaviour:
@@ -62,7 +62,7 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   shadows:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.14386791, g: 0.4331201, b: 0.5, a: 1}
     hdr: 0
     showAlpha: 0
@@ -93,20 +93,20 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   shadows:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.93244046, y: 0.87692595, z: 1, w: 0.0071276994}
   midtones:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 1, y: 0.98930293, z: 0.9486959, w: -0.0000000032250957}
   highlights:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.9936967, y: 0.99999934, z: 1, w: -0.09978616}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
     min: 0
   shadowsEnd:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.5
     min: 0
   highlightsStart:
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   postExposure:
     m_OverrideState: 1
-    m_Value: -1.5
+    m_Value: -0.5
   contrast:
     m_OverrideState: 1
     m_Value: 10
